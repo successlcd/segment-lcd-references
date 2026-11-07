@@ -1,0 +1,429 @@
+model,url,lcd_type,polarity,application,viewing_area_w_mm,viewing_area_h_mm,glass_outline_w_mm,glass_outline_h_mm,lcd_voltage_v,duty,bias,frame_frequency_hz,viewing_direction,operating_temp_min_c,operating_temp_max_c,storage_temp_min_c,storage_temp_max_c,connection,pin_pitch_mm,rear_polarizer
+S1386D,https://successlcd.com/products/s1386d/,VA,negative,Massage devices,56,96,,,5,1/4,1/3,,12 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S1702D,https://successlcd.com/products/s1702d/,HTN,negative,Treadmill,120,27.5,0.2,35.5,5,1/4,1/3,64,6 o'clock,,,,,Metal pins,2.54,transmissive
+S1982D,https://successlcd.com/products/s1982d/,TN,negative,Radios,31,19,0.2,24,4.5,1/4,1/3,,12 o'clock,-20,70,-30,80,Metal pins,,
+S2238D,https://successlcd.com/products/s2238d/,VA,negative,Instrumentation,23.4,19.2,0.2,25.2,3.3,1/4,1/3,64,12 o'clock,0,50,-10,60,FPC,0.5,transmissive
+S2551D,https://successlcd.com/products/s2551d/,HTN,positive,Measuring instruments,72.52,33.24,75.52,38.24,5,1/4,1/3,64,3 o'clock,-30,80,-40,90,Metal pins,2.54,transmissive
+S2873D,https://successlcd.com/products/s2873d/,STN,positive,Instrumentation,54,17,0.2,21,2.8,1/4,1/3,,6 o'clock,-20,80,-30,90,Metal pins,,transmissive
+S2947D,https://successlcd.com/products/s2947d/,FSTN,positive,Electric-assist bicycle displays,32.4,23.6,,,3.3,1/4,1/3,,6 o'clock,-20,70,-30,80,FPC,,
+S2983D,https://successlcd.com/products/s2983d/,FSTN,positive,Cd players,34,19,,,3.3,1/64,1/9,,12 o'clock,-20,70,-30,80,FPC,,
+S3092D,https://successlcd.com/products/s3092d/,DFSTN,negative,Treadmills,110.08,69.8,,,8.5,1/32,1/7,,6 o'clock,0,50,-10,60,,,
+S3113D,https://successlcd.com/products/s3113d/,STN,positive,Clocks,71.8,67.8,0.2,74.8,3.3,1/8,1/4,64,12 o'clock,,,,,Zebra,1,
+S3197D,https://successlcd.com/products/s3197d/,TN,positive,Blood pressure monitors,29,34.5,34.5,37.5,4,1/6,1/3,64,12 o'clock,0,50,-10,60,Heat seal,1,reflective
+S3299D,https://successlcd.com/products/s3299d/,FSTN,positive,Heated blanket controllers,30,30,,,3.3,1/3,1/3,,6 o'clock,,,,,Metal pins,,
+S3313D,https://successlcd.com/products/s3313d/,VA,negative,Thermostats,64,46,67,51.5,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3321D,https://successlcd.com/products/s3321d/,VA,negative,Power supplies,90,30.5,96,37.5,4.5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3370D,https://successlcd.com/products/s3370d/,VA,negative,Desk lamps,19,36,25,40,5,1/4,1/3,128,12 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S3376D,https://successlcd.com/products/s3376d/,TN,positive,Clocks,55,26.5,58,32,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S3379D,https://successlcd.com/products/s3379d/,VA,negative,In-vehicle devices,45,25,51.6,37.4,5,1/4,1/3,64,12 o'clock,-30,85,-40,90,Zebra,3,transmissive
+S3380D,https://successlcd.com/products/s3380d/,HTN,negative,In-vehicle devices,42,11,48.3,20.5,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Zebra,2.4,transmissive
+S3381D,https://successlcd.com/products/s3381d/,VA,negative,In-vehicle devices,47,19,50,27,5,1/4,1/3,64,12 o'clock,-30,88,-40,90,Zebra,3,transmissive
+S3382D,https://successlcd.com/products/s3382d/,TN,negative,In-vehicle devices,65,19,68,27,3,1/4,1/3,64,12 o'clock,-30,80,-40,90,Zebra,3.2,transmissive
+S3390D,https://successlcd.com/products/s3390d/,VA,negative,Tire pressure gauges,40,24,42,28,5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S3391D,https://successlcd.com/products/s3391d/,DFSTN,negative,Clocks,60,60,65,67,3.3,1/4,1/3,,12 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S3395D,https://successlcd.com/products/s3395d/,VA,negative,Power supplies,62,15,65.4,20.4,5,1/4,1/2,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3396D,https://successlcd.com/products/s3396d/,HTN,positive,Laser-ranging equipment,20,64,0.2,67,3.3,1/4,1/3,64,6 o'clock,,,,,Metal pins,,transmissive
+S3397D,https://successlcd.com/products/s3397d/,VA,negative,Media players,50,29.5,53,35,3,1/4,1/3,128,12 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S3398D,https://successlcd.com/products/s3398d/,VA,negative,Nail care devices,57,45,60,50,3,1/4,1/3,,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3403D,https://successlcd.com/products/s3403d/,HTN,negative,Vehicle climate controls,91.5,32.5,99.5,35.5,5,1/2,1/2,64,12 o'clock,-30,80,-40,90,Zebra,2.54,transmissive
+S3418D,https://successlcd.com/products/s3418d/,TN,positive,In-vehicle devices,58,37,61,44,5,1/4,1/3,64,6 o'clock,-30,100,-40,110,Metal pins,2,transflective
+S3419D,https://successlcd.com/products/s3419d/,HTN,positive,Motorcycle instrument,47,13.3,0.2,18.3,5,1/4,1/3,64,6 o'clock,,,,,Metal pins,2.54,transmissive
+S3420D,https://successlcd.com/products/s3420d/,FSTN,positive,Dryers,35,35,0.2,40.5,3.3,1/4,1/3,,12 o'clock,,,,,FPC,,
+S3423D,https://successlcd.com/products/s3423d/,TN,positive,Water meters,52,32,0.2,37,3,1/4,1/3,64,6 o'clock,,,,,Metal pins,2,reflective
+S3433D,https://successlcd.com/products/s3433d/,TN,positive,Remote controls,19,21,25,23,3.3,static,,64,6 o'clock,-20,70,-30,80,Metal pins,1.8,reflective
+S3437D,https://successlcd.com/products/s3437d/,DFSTN,negative,Tire-pressure,80,36,0.2,41,3.3,1/8,1/4,64,12 o'clock,,,,,Metal pins,2,transmissive
+S3438D,https://successlcd.com/products/s3438d/,DFSTN,negative,Tire-pressure,80,36,0.2,41,3.3,1/8,1/4,64,12 o'clock,,,,,Metal pins,2,transmissive
+S3439D,https://successlcd.com/products/s3439d/,FSTN,positive,Temperature controllers,76.5,59.7,0.2,65.2,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2.54,
+S3440D,https://successlcd.com/products/s3440d/,HTN,negative,"Speed, gear and odometer readouts",63.11,29.05,0.2,34.55,5,1/4,1/3,64,6 o'clock,,,,,Metal pins,2,transmissive
+S3443D,https://successlcd.com/products/s3443d/,DFSTN,negative,Tire pressure gauges,74,14,81,17,3,1/8,1/4,64,12 o'clock,-30,80,-40,90,Metal pins,1.27,transmissive
+S3448D,https://successlcd.com/products/s3448d/,VA,negative,Thermostats,105,47,108,55,3.3,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3457D,https://successlcd.com/products/s3457d/,HTN,positive,Multimedia player,22.2,16.8,0.2,21.3,3,1/4,1/3,64,6 o'clock,,,,,Metal pins,,reflective
+S3458D,https://successlcd.com/products/s3458d/,HTN,positive,Radios,38,14.9,40,18.9,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.8,transflective
+S3460D,https://successlcd.com/products/s3460d/,HTN,,Hair curlers,18,15,24.8,19,5,1/3,1/2,,6 o'clock,-30,85,-30,85,Metal pins,1.8,
+S3462D,https://successlcd.com/products/s3462d/,VA,negative,Thermostats,60,34,69,39,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3470D,https://successlcd.com/products/s3470d/,TN,positive,Power supplies,66.5,51.5,69.5,57,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3471D,https://successlcd.com/products/s3471d/,VA,negative,Thermostats,68,51.5,69.5,57,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3472D,https://successlcd.com/products/s3472d/,TN,positive,Fitness devices,29,5.2,31,8.9,4.5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.5,reflective
+S3477D,https://successlcd.com/products/s3477d/,TN,positive,Thermo-hygrometers,67.6,67.6,69.9,72,3,1/4,1/3,64,12 o'clock,-20,70,-30,80,Zebra,1.6,reflective
+S3481D,https://successlcd.com/products/s3481d/,TN,positive,Blood pressure monitors,53.5,75,59,78,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,reflective
+S3487D,https://successlcd.com/products/s3487d/,TN,negative,Water purifiers,116,42,0.2,49.7,5,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S3490D,https://successlcd.com/products/s3490d/,DFSTN,negative,Tire-pressure,83.2,17.17,0.2,22.7,3,1/8,1/4,,12 o'clock,,,,,Metal pins,1.27,transmissive
+S3497D,https://successlcd.com/products/s3497d/,VA,negative,Treadmills,25.9,20.5,33.3,24.1,4.5,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,1.5,transmissive
+S3498D,https://successlcd.com/products/s3498d/,TN,positive,Air-conditioner remote controls,30,24,0.2,27,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.8,transmissive
+S3507D,https://successlcd.com/products/s3507d/,HTN,positive,Media players,46.8,23.8,49.8,30.8,3.3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S3516D,https://successlcd.com/products/s3516d/,HTN,positive,Test and measurement instruments,53,33,0.2,39.5,3,1/4,1/3,,12 o'clock,,,,,Zebra,1.4,transflective
+S3543D,https://successlcd.com/products/s3543d/,STN,positive,Instrumentation,58,47,0.2,53,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S3551D,https://successlcd.com/products/s3551d/,HTN,positive,Motorcycle instruments,47,38.8,50,45.2,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,2.54,transflective
+S3622D,https://successlcd.com/products/s3622d/,TN,positive,Temperature controllers,51,71.4,0.2,73.8,2.9,1/4,1/3,64,12 o'clock,-20,70,-30,80,Zebra,2,transmissive
+S3623D,https://successlcd.com/products/s3623d/,STN,negative,Tire pressure gauges,60,23,,,3.3,1/8,1/4,64,12 o'clock,-20,70,-30,80,Metal pins,,
+S3629D,https://successlcd.com/products/s3629d/,TN,positive,Toy and game,41,28.9,0.2,32.9,5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2.54,reflective
+S3630D,https://successlcd.com/products/s3630d/,HTN,positive,Audio equipment,108,21.3,0.2,23.3,4.5,1/8,1/4,64,12 o'clock,-20,70,-30,80,FPC,,transmissive
+S3641D,https://successlcd.com/products/s3641d/,DFSTN,negative,Tire pressure gauges,35,24.9,38,29.8,3.3,1/8,1/4,64,12 o'clock,-30,85,-40,90,FPC,1,transmissive
+S3642D,https://successlcd.com/products/s3642d/,VA,negative,Eye massagers,14.5,13.27,19,22,3.3,1/4,1/3,,6 o'clock,-10,60,-20,70,Metal pins,1.5,transmissive
+S3646D,https://successlcd.com/products/s3646d/,HTN,positive,Audio equipment,60.3,15.7,0.2,22,3,1/4,1/3,64,6 o'clock,,,,,Metal pins,,transmissive
+S3650D,https://successlcd.com/products/s3650d/,HTN,positive,Fuel-display panels,57,27,0.2,32.5,4.5,1/4,1/3,75,6 o'clock,-20,70,-30,80,Metal pins,2,transflective
+S3656D,https://successlcd.com/products/s3656d/,VA,negative,Power supplies,111,50,114,57,4.5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3657D,https://successlcd.com/products/s3657d/,FSTN,positive,Thermostats,78.4,60,81.4,65,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S3665D,https://successlcd.com/products/s3665d/,TN,positive,Fuel-display panels,103,54,,,4.5,1/4,1/3,64,3 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S3666D,https://successlcd.com/products/s3666d/,VA,negative,Power supplies,38,67.5,41,74.5,4.5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3670D,https://successlcd.com/products/s3670d/,VA,negative,Medical warmers,126,36,133,39,5,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S3675D,https://successlcd.com/products/s3675d/,HTN,,Motorcycle instrument,76.5,55.3,0.2,60.8,5,1/4,1/3,64,4:30 o'clock,,,,,Metal pins,1.8,transflective
+S3683D,https://successlcd.com/products/s3683d/,HTN,positive,Refrigeration equipment,100,100,0.2,108.5,3.3,1/4,1/3,64,12 o'clock,,,,,Metal pins,2.54,transflective
+S3686D,https://successlcd.com/products/s3686d/,TN,positive,Refrigerated container,142,34.7,0.2,42.7,5.5,1/2,1/2,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S3689D,https://successlcd.com/products/s3689d/,TN,positive,Body fat scales,65.8,39.3,0.2,46.3,3,1/5,1/3,64,6 o'clock,0,50,-10,60,Heat seal,2,reflective
+S3695D,https://successlcd.com/products/s3695d/,VA,negative,Power supplies,71,32,78,39,4.5,1/8,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3699D,https://successlcd.com/products/s3699d/,TN,positive,Thermostats,39,15,41,21,3.6,1/4,1/3,,6 o'clock,-30,80,-40,80,Metal pins,2.54,transflective
+S3705D,https://successlcd.com/products/s3705d/,VA,negative,Measuring instruments,77,50,80,57,5,1/8,1/4,160,12 o'clock,-20,70,-30,80,Metal pins,1.8,transmissive
+S3709D,https://successlcd.com/products/s3709d/,TN,positive,Temperature control sensors,62,41,66,50,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S3710D,https://successlcd.com/products/s3710d/,TN,positive,Weighing scales,68,16,71,21.5,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,reflective
+S3711D,https://successlcd.com/products/s3711d/,HTN,negative,Food-processor controls,66,30,0.2,37,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3716D,https://successlcd.com/products/s3716d/,HTN,positive,Massage devices,38.8,53.3,43.4,55.9,3.6,1/4,1/3,,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S3719D,https://successlcd.com/products/s3719d/,FSTN,positive,Remote controls,25.82,20.461,0.2,24.461,3,1/4,1/3,64,6 o'clock,,,,,Metal pins,2,reflective
+S3727D,https://successlcd.com/products/s3727d/,VA,negative,Power supplies,104,54,109,63,4.5,1/8,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3730D,https://successlcd.com/products/s3730d/,VA,negative,Portable power stations,108,60,111,65,5,1/8,1/4,64,12 o'clock,-20,70,-30,80,FPC,,transmissive
+S3733D,https://successlcd.com/products/s3733d/,VA,negative,Measuring instruments,27.43,27.43,30.73,34.43,5,1/4,1/3,64,,-20,70,-30,80,Metal pins,2.54,transmissive
+S3742D,https://successlcd.com/products/s3742d/,VA,negative,Power supplies,110,45,113,52,4.5,1/8,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3790D,https://successlcd.com/products/s3790d/,VA,negative,Power supplies,58,48,61,55,4,1/8,1/4,,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3817D,https://successlcd.com/products/s3817d/,HTN,positive,Massager,51.4,40.4,0.2,45,3.3,1/4,1/3,64,6 o'clock,,,,,Metal pins,1.27,transmissive
+S3865D,https://successlcd.com/products/s3865d/,VA,negative,Blood pressure monitors,30,15,35.5,18,4,1/6,1/3,128,9 o'clock,-20,70,-30,80,FPC,0.3,transmissive
+S3893D,https://successlcd.com/products/s3893d/,HTN,positive,Thermostats,58,44.5,65,47.5,3,1/5,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2,reflective
+S3912D,https://successlcd.com/products/s3912d/,VA,negative,Dog training devices,40,20.2,47.4,22.6,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S3917D,https://successlcd.com/products/s3917d/,VA,negative,Dog training devices,32.6,29.3,35.6,33.8,3,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,1.8,transmissive
+S3918D,https://successlcd.com/products/s3918d/,FSTN,positive,Thermostats,78.4,60,81.4,65,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S3925D,https://successlcd.com/products/s3925d/,HTN,positive,Fuel dispensers,114,39,117,47,3.6,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S3926D,https://successlcd.com/products/s3926d/,HTN,positive,Temperature controllers,78.1,54.2,0.2,59.7,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S3930D,https://successlcd.com/products/s3930d/,VA,negative,Tire pressure gauges,18.5,12.7,,,5,1/8,1/4,,12 o'clock,-30,80,-40,90,FPC,,transmissive
+S3941D,https://successlcd.com/products/s3941d/,TN,positive,Thermostats,40,32,43,39,3.6,1/4,1/3,,6 o'clock,-30,80,-40,80,Metal pins,2.54,transflective
+S3945D,https://successlcd.com/products/s3945d/,TN,positive,Gas meters,53.8,16,56.8,23,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S3947D,https://successlcd.com/products/s3947d/,HTN,positive,Massage devices,36,49.5,41,52,3.6,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S3950D,https://successlcd.com/products/s3950d/,DFSTN,negative,Two-way radios,15.6,29.6,18,34.5,3,1/8,1/4,64,6 o'clock,-30,60,-30,80,Heat seal,0.6,transmissive
+S3956D,https://successlcd.com/products/s3956d/,VA,negative,Dog training devices,28,23,30.5,27.5,3.3,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S3957D,https://successlcd.com/products/s3957d/,HTN,positive,Temperature controllers,58,58,0.2,63,5,1/8,1/4,64,12 o'clock,-20,70,-30,80,Metal pins,1.8,transflective
+S3959D,https://successlcd.com/products/s3959d/,VA,negative,Thermostats,154.21,86.61,157.21,94.61,3.3,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3960D,https://successlcd.com/products/s3960d/,HTN,positive,Fuel dispenser,47.8,22.4,,,4,static,,64,1:30 o'clock,-20,70,-30,80,Metal pins,,transmissive
+S3961D,https://successlcd.com/products/s3961d/,HTN,positive,Thermostat,74.5,76,,,4,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,,transflective
+S3966D,https://successlcd.com/products/s3966d/,HTN,positive,Blood-pressure monitor,169,92.02,,,3,1/4,1/3,64,6 o'clock,-10,50,-20,70,Heat seal,,transflective
+S3967D,https://successlcd.com/products/s3967d/,TN,positive,Air conditioners,96,30.1,99,38.3,5,static,,64,6 o'clock,-10,60,-20,70,Metal pins,2.54,transflective
+S3976D,https://successlcd.com/products/s3976d/,HTN,positive,In-vehicle devices,93,33.4,96,38.9,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Zebra,1.2,reflective
+S3977D,https://successlcd.com/products/s3977d/,HTN,positive,Boat instrument displays,79.5,59.5,82.5,68.5,5,1/4,1/3,64,1:30 o'clock,-20,70,-30,80,Zebra,1.2,reflective
+S3978D,https://successlcd.com/products/s3978d/,VA,negative,Beauty devices,13.5,24,18.5,27,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S3980D,https://successlcd.com/products/s3980d/,HTN,positive,Radio,65,25,,,3,1/4,1/2,64,12 o'clock,0,50,-10,60,Metal pins,,transflective
+S3981D,https://successlcd.com/products/s3981d/,FSTN,positive,Thermostats,91.92,59.09,98,67,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2.54,transflective
+S3982D,https://successlcd.com/products/s3982d/,HTN,positive,Food thermometers,42.5,16.5,45.5,21,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,2,transmissive
+S3983D,https://successlcd.com/products/s3983d/,HTN,positive,Food thermometers,48.1,18.6,0.2,21,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,2,transmissive
+S3984D,https://successlcd.com/products/s3984d/,HTN,positive,Temperature,38.2,41.1,,,3,1/5,1/3,64,6 o'clock,0,50,-10,60,Zebra,,transmissive
+S3986D,https://successlcd.com/products/s3986d/,HTN,positive,Electrical power and energy,57.6,25.6,0.2,32,3.3,1/8,1/4,64,6 o'clock,-25,70,-30,75,Metal pins,2,transflective
+S3988D,https://successlcd.com/products/s3988d/,HTN,positive,Water purifiers,44.5,44.5,47.5,49.5,3,1/4,1/3,64,6 o'clock,-10,50,-20,60,Zebra,1,reflective
+S3989D,https://successlcd.com/products/s3989d/,TN,positive,Air conditioners,142,34.7,145,42.7,5.5,1/2,1/2,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S3994D,https://successlcd.com/products/s3994d/,TN,positive,Blood pressure monitors,62,85,68,88,4,1/4,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,transmissive
+S3999D,https://successlcd.com/products/s3999d/,DFSTN,negative,Air-conditioning thermostats,76,46,0.2,53,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4003D,https://successlcd.com/products/s4003d/,VA,negative,LED mirrors,57,19,60,26,4.5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4004D,https://successlcd.com/products/s4004d/,HTN,negative,,24.8,24.8,,,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,,transmissive
+S4006D,https://successlcd.com/products/s4006d/,HTN,positive,Hour meters,62.4,43.4,65,51,3.3,1/8,1/4,64,12 o'clock,-30,80,-40,90,FPC,,transflective
+S4007D,https://successlcd.com/products/s4007d/,HTN,positive,Time and mileage meters,62.4,43.4,,,3.3,1/8,1/4,64,12 o'clock,-30,80,-40,90,FPC,,
+S4009D,https://successlcd.com/products/s4009d/,TN,positive,Electronic toys,38,6.8,40,11.9,4.5,1/2,1/2,64,6 o'clock,-20,70,-30,80,Zebra,2.54,reflective
+S4010D,https://successlcd.com/products/s4010d/,HTN,negative,Motorcycle instruments,115,42.5,118,48,5,1/4,1/3,64,10:30 o'clock,-30,80,-35,85,Metal pins,1.8,transmissive
+S4011D,https://successlcd.com/products/s4011d/,VA,negative,Thermostats,70,80,77,83,5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4012D,https://successlcd.com/products/s4012d/,VA,negative,Thermostats,60,42,67,45,5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4015D,https://successlcd.com/products/s4015d/,VA,negative,Food hygrometers,45.25,16.59,48.25,21.09,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,Zebra,2,transmissive
+S4022D,https://successlcd.com/products/s4022d/,HTN,positive,,67.5,41,,,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,,transflective
+S4026D,https://successlcd.com/products/s4026d/,FSTN,positive,Room thermostats,72.8,47.5,75.8,52.5,4.2,1/8,1/4,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4027D,https://successlcd.com/products/s4027d/,FSTN,positive,Room thermostats,71.8,47.3,75.8,52.5,4.2,1/8,1/4,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4032D,https://successlcd.com/products/s4032d/,HTN,positive,Temperature controllers,66,45,0.2,50,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4038D,https://successlcd.com/products/s4038d/,VA,negative,Dog training devices,31.8,38.2,34.54,43.4,3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S4041D,https://successlcd.com/products/s4041d/,TN,positive,Measuring instruments,22.59,20.05,25.4,29.21,3.3,1/2,1/2,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4043D,https://successlcd.com/products/s4043d/,TN,positive,Massage devices,40.89,38.37,43.89,43.37,3,1/4,1/3,,6 o'clock,0,50,-10,60,Metal pins,2,
+S4044D,https://successlcd.com/products/s4044d/,HTN,positive,Food thermometers,38.8,38.8,,,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,1.6,transmissive
+S4046D,https://successlcd.com/products/s4046d/,VA,negative,Dog training devices,38,21,45,24,3.3,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S4052D,https://successlcd.com/products/s4052d/,VA,negative,Dog training devices,35.4,31.7,38.4,37.7,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S4053D,https://successlcd.com/products/s4053d/,TN,positive,Gas meters,61,22,64,29,3,1/4,1/3,64,6 o'clock,-30,85,-40,85,Metal pins,2.54,reflective
+S4054D,https://successlcd.com/products/s4054d/,VA,negative,Thermostats,68.4,59.35,75.4,62.35,5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4056D,https://successlcd.com/products/s4056d/,HTN,positive,,152.2,43.9,,,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,,transflective
+S4062D,https://successlcd.com/products/s4062d/,TN,negative,Blood pressure monitors,74,75,80,78,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.2,transmissive
+S4067D,https://successlcd.com/products/s4067d/,DFSTN,positive,Tire pressure gauges,59,14.5,61,19,3,1/8,1/4,64,12 o'clock,-30,80,-40,90,Metal pins,1.27,transmissive
+S4072D,https://successlcd.com/products/s4072d/,VA,negative,Smart home devices,84.95,35.95,87.95,45.6,5,1/4,1/3,,12 o'clock,-20,70,-30,80,Metal pins,1.5,transmissive
+S4081D,https://successlcd.com/products/s4081d/,VA,negative,Food hygrometers,29,32,36,35,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,Metal pins,2,transmissive
+S4087D,https://successlcd.com/products/s4087d/,VA,negative,Massage devices,83.6,58.6,87.6,66.6,5,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S4089D,https://successlcd.com/products/s4089d/,VA,negative,Food thermometers,20,20,26,23,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,Zebra,1.6,transmissive
+S4097D,https://successlcd.com/products/s4097d/,FSTN,positive,Measuring instruments,92,38,96,45,3.7,1/4,1/3,64,12 o'clock,-30,60,-40,70,Metal pins,1.5,transflective
+S4101D,https://successlcd.com/products/s4101d/,HTN,positive,,74.5,74.5,,,3,1/6,1/3,64,6 o'clock,0,50,-10,60,Zebra,,transmissive
+S4102D,https://successlcd.com/products/s4102d/,DFSTN,negative,Instrumentation,67,37,,,3,static,,128,12 o'clock,-20,70,-30,80,Metal pins,,
+S4105D,https://successlcd.com/products/s4105d/,TN,positive,Herbal decoction machines,87,52.4,90,60,4,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4112D,https://successlcd.com/products/s4112d/,TN,positive,Calculators,58,10,60,15,4.5,1/3,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.5,reflective
+S4114D,https://successlcd.com/products/s4114d/,TN,positive,Thermostats,26.7,40,34.7,44,3.3,1/3,1/3,128,12 o'clock,10,65,20,65,Zebra,,reflective
+S4120D,https://successlcd.com/products/s4120d/,VA,negative,Measuring instruments,46.8,27.8,49.8,34.8,5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4121D,https://successlcd.com/products/s4121d/,HTN,positive,Thermostats,57.6,57.6,67,60,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,,0.75,transflective
+S4124D,https://successlcd.com/products/s4124d/,HTN,negative,Thermostats,70.6,55.6,73,60.6,5,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S4126D,https://successlcd.com/products/s4126d/,STN,negative,Temperature controllers,64,48,,,3.3,1/8,1/4,,6 o'clock,0,70,-10,80,,,
+S4129D,https://successlcd.com/products/s4129d/,TN,positive,Calculators,43,12,45,18,2.8,1/2,1/2,64,12 o'clock,-20,70,-30,80,Metal pins,1.5,reflective
+S4131D,https://successlcd.com/products/s4131d/,TN,positive,Dog training devices,16.7,10.6,19.7,15.6,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4132D,https://successlcd.com/products/s4132d/,STN,positive,Character display interfaces,77.3,26,,,4.5,1/16,1/5,64,6 o'clock,-20,70,-30,80,,0.7,transflective
+S4133D,https://successlcd.com/products/s4133d/,TN,positive,Thermo-hygrometers,62.8,53.5,65.8,58.5,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,2.54,reflective
+S4135D,https://successlcd.com/products/s4135d/,TN,positive,Environmental monitors,45,23,48,28,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4136D,https://successlcd.com/products/s4136d/,HTN,positive,Thermometers,49.8,21.2,54.3,24.2,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,1.5,transmissive
+S4137D,https://successlcd.com/products/s4137d/,HTN,positive,Boat instrument displays,79.2,88.8,82.2,97.8,4.5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Zebra,1.2,transflective
+S4139D,https://successlcd.com/products/s4139d/,HTN,positive,Blood pressure monitors,102,74.8,105,80.5,3.2,1/6,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,transflective
+S4141D,https://successlcd.com/products/s4141d/,HTN,positive,Fill lights,23.7,10.8,25.7,16.8,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transflective
+S4148D,https://successlcd.com/products/s4148d/,VA,negative,Vehicle dashboards,99,49,103,58,5,1/4,1/3,86,6 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4150D,https://successlcd.com/products/s4150d/,HTN,positive,Thermostats,40,43,42,47,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,1.5,transflective
+S4153D,https://successlcd.com/products/s4153d/,TN,positive,RTD thermometers,40,18,42,22,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,1.8,transflective
+S4156D,https://successlcd.com/products/s4156d/,HTN,positive,Timers,46.5,20.2,49.5,25.5,4.5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,reflective
+S4157D,https://successlcd.com/products/s4157d/,HTN,positive,Thermometers,34.5,11.6,39.2,14.8,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,1.1,transmissive
+S4159D,https://successlcd.com/products/s4159d/,TN,positive,Massage devices,48.4,86.4,53.4,89.4,3.6,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4161D,https://successlcd.com/products/s4161d/,VA,negative,Hair removal devices,30,20,37,23,5,1/4,1/3,128,6 o'clock,-10,60,-20,70,Metal pins,1.8,transmissive
+S4163D,https://successlcd.com/products/s4163d/,HTN,positive,Smart home devices,44.5,44.5,47.5,49.5,3,1/4,1/3,64,6 o'clock,-10,50,-20,60,Zebra,1,reflective
+S4167D,https://successlcd.com/products/s4167d/,TN,positive,Blood pressure monitors,62,81,65,86.5,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,reflective
+S4168D,https://successlcd.com/products/s4168d/,VA,negative,Dog training devices,38,21,45,24,3.3,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,1.8,transmissive
+S4170D,https://successlcd.com/products/s4170d/,FSTN,positive,Dog training devices,36.9,17.9,42.9,20.9,3.3,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,1.5,transmissive
+S4172D,https://successlcd.com/products/s4172d/,VA,negative,Beauty devices,22,37,,,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,FPC,0.75,transmissive
+S4174D,https://successlcd.com/products/s4174d/,HTN,positive,Electricity meters,67,32.6,70,40,3,1/8,1/3,64,6 o'clock,-25,75,-30,80,Metal pins,2.54,transflective
+S4177D,https://successlcd.com/products/s4177d/,HTN,positive,Ultrasonic therapy controls,87,57,0.2,62.5,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2.54,
+S4183D,https://successlcd.com/products/s4183d/,TN,positive,Massage devices,45.76,70.15,50.76,73.15,3.6,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S4184D,https://successlcd.com/products/s4184d/,HTN,negative,Motorcycle instruments,122,69,130,72,4.5,1/4,1/3,64,6 o'clock,-30,80,-40,85,Metal pins,2.54,transflective
+S4186D,https://successlcd.com/products/s4186d/,HTN,negative,Measuring instruments,50,46.5,52,52.5,4.5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,1.5,transmissive
+S4196D,https://successlcd.com/products/s4196d/,HTN,negative,Measuring instruments,62.6,38.9,65,45.3,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,2,transmissive
+S4200D,https://successlcd.com/products/s4200d/,VA,negative,Dog training devices,27.4,54.1,31.4,60.1,3.3,1/4,1/3,128,3 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4201D,https://successlcd.com/products/s4201d/,TN,positive,Thermostats,60,70,70,75,4,static,,64,12 o'clock,0,55,-20,70,Metal pins,2,transflective
+S4207D,https://successlcd.com/products/s4207d/,HTN,positive,Motorcycle instruments,54.1,35.6,56.5,42,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,Metal pins,2.54,transmissive
+S4217D,https://successlcd.com/products/s4217d/,HTN,positive,Motorcycle instruments,83,83,86,90,4.8,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,2,transmissive
+S4230D,https://successlcd.com/products/s4230d/,HTN,positive,Motorcycle instruments,149,60.9,152,67.9,4.8,1/5,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2.54,transmissive
+S4234D,https://successlcd.com/products/s4234d/,FSTN,positive,Wireless receivers,50.2,63.2,58,67,4.5,1/8,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,transmissive
+S4235D,https://successlcd.com/products/s4235d/,FSTN,positive,Wireless transmitters,44,58,52,62,4.5,1/8,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.8,transmissive
+S4243D,https://successlcd.com/products/s4243d/,TN,negative,Blood pressure monitors,27,57.5,30,63,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Zebra,1,transmissive
+S4260D,https://successlcd.com/products/s4260d/,HTN,positive,Motorcycle instruments,52.8,26.8,55.8,34.5,5,1/4,1/3,64,12 o'clock,-30,80,-40,85,Metal pins,1.8,transflective
+S4261D,https://successlcd.com/products/s4261d/,FSTN,positive,Instrumentation,54,38.6,0.2,45,3.3,1/8,1/4,64,6 o'clock,,,,,Metal pins,2,transflective
+S4264D,https://successlcd.com/products/s4264d/,HTN,positive,Golf rangefinders,11,11,,,3.3,1/4,1/3,64,12 o'clock,-20,70,-30,80,FPC,,transmissive
+S4269D,https://successlcd.com/products/s4269d/,VA,negative,Remote controls,35,22,38,27,3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4271D,https://successlcd.com/products/s4271d/,VA,negative,Smart power strips,24.4,26,31,29,4.5,1/6,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,1.5,transmissive
+S4274D,https://successlcd.com/products/s4274d/,TN,positive,Blood pressure monitors,74,76.7,80,85.2,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.3,transmissive
+S4275D,https://successlcd.com/products/s4275d/,VA,negative,Blood pressure monitors,70,83.12,78,88.62,3.3,1/6,1/3,128,6 o'clock,0,50,-10,60,Heat seal,1,transmissive
+S4276D,https://successlcd.com/products/s4276d/,VA,negative,Blood pressure monitors,74,76.7,80,85.2,3.3,1/6,1/3,128,6 o'clock,0,50,-10,60,Zebra,1.3,transmissive
+S4277D,https://successlcd.com/products/s4277d/,VA,negative,Measuring instruments,22.4,32,29.7,40,3.3,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S4278D,https://successlcd.com/products/s4278d/,VA,negative,Food thermometers,45.2,18.09,50.7,21.09,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,FPC,0.5,transmissive
+S4282D,https://successlcd.com/products/s4282d/,VA,negative,Towel dryers,35,35,38,40.5,3.3,1/4,1/3,,12 o'clock,-20,70,-30,80,FPC,0.5,transmissive
+S4286D,https://successlcd.com/products/s4286d/,HTN,positive,Thermostats,62.2,59.6,68.6,62,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4288D,https://successlcd.com/products/s4288d/,HTN,positive,Bus information displays,78,75,81,81,3.3,1/8,1/4,64,12 o'clock,-10,60,-20,70,Metal pins,2.54,transflective
+S4291D,https://successlcd.com/products/s4291d/,HTN,positive,Fuel dispensers,52.6,27.6,55,35,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4294D,https://successlcd.com/products/s4294d/,HTN,positive,Clocks,105,67,110,70,3,1/4,1/3,64,12 o'clock,0,60,-10,70,Metal pins,1.5,transmissive
+S4295D,https://successlcd.com/products/s4295d/,VA,negative,Chargers,57.6,27,60.6,35,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4300D,https://successlcd.com/products/s4300d/,HTN,negative,Industrial temperature controllers,67.6,45.6,75.2,48,5,1/8,1/4,64,12 o'clock,-10,60,-20,60,Metal pins,2.54,transmissive
+S4303D,https://successlcd.com/products/s4303d/,HTN,positive,Blood pressure monitors,114.2,72.8,120.7,75.8,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Zebra,1.3,transflective
+S4304D,https://successlcd.com/products/s4304d/,HTN,positive,Motorcycle instruments,31,18,33,22.5,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,Zebra,1.8,transflective
+S4305D,https://successlcd.com/products/s4305d/,TN,positive,Motorcycle instruments,30,18.46,32,23,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,Zebra,1.8,transflective
+S4306D,https://successlcd.com/products/s4306d/,VA,negative,Small home appliances,23.6,5.6,26,10,3.3,1/4,1/3,128,12 o'clock,0,50,-10,60,Metal pins,0.5,transmissive
+S4310D,https://successlcd.com/products/s4310d/,VA,negative,Ozone generators,100,50,103,57,5,1/4,1/3,128,12 o'clock,-10,60,-20,70,Metal pins,2.54,transmissive
+S4311D,https://successlcd.com/products/s4311d/,TN,positive,Thermo-hygrometers,27,27,29,30.9,3,1/4,1/2,64,6 o'clock,0,50,-10,60,Zebra,1,reflective
+S4315D,https://successlcd.com/products/s4315d/,TN,positive,Clocks,98.8,49.72,106.03,60.44,5,1/4,1/3,64,12 o'clock,-20,70,-20,70,Metal pins,1.8,transflective
+S4317D,https://successlcd.com/products/s4317d/,VA,negative,Timed phone lock boxes,70.6,15.6,73,20,3.5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4318D,https://successlcd.com/products/s4318d/,HTN,negative,Fill lights,35,24,37,30,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4319D,https://successlcd.com/products/s4319d/,HTN,positive,Small home appliances,38,10,40,16.3,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,FPC,1,reflective
+S4320D,https://successlcd.com/products/s4320d/,HTN,negative,Motorcycle instruments,38.5,19,41.5,25.5,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,FPC,1.4,transmissive
+S4321D,https://successlcd.com/products/s4321d/,HTN,negative,Motorcycle instruments,42.5,27.5,45.5,34,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,FPC,1.4,transmissive
+S4322D,https://successlcd.com/products/s4322d/,TN,positive,Dog training devices,17.7,11.6,19.7,15.6,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4324D,https://successlcd.com/products/s4324d/,TN,positive,Thermostats,42,42,44,46.5,3,1/4,1/3,64,12 o'clock,-20,70,-30,80,FPC,0.5,reflective
+S4327D,https://successlcd.com/products/s4327d/,HTN,positive,Electricity meters,34,21,36,27,3,1/4,1/3,64,6 o'clock,-25,75,-30,80,Metal pins,2.54,transflective
+S4329D,https://successlcd.com/products/s4329d/,HTN,positive,Audio devices,119,18,122,23.5,3,1/8,1/4,64,12 o'clock,-20,70,-30,80,FPC,0.5,transmissive
+S4330D,https://successlcd.com/products/s4330d/,VA,negative,Industrial controllers,35,24,38,31,3.3,1/4,1/3,128,12 o'clock,-20,70,-30,80,Zebra,1.5,transmissive
+S4332D,https://successlcd.com/products/s4332d/,HTN,negative,Small home appliances,53.8,26,56.8,33,4.5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4334D,https://successlcd.com/products/s4334d/,VA,negative,Food thermometers,130.8,21.1,133.8,27.6,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,FPC,0.5,transmissive
+S4343D,https://successlcd.com/products/s4343d/,TN,negative,Massage devices,83,65,86,73,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2.54,transmissive
+S4352D,https://successlcd.com/products/s4352d/,VA,negative,Dog training devices,34,51,38,57,3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4353D,https://successlcd.com/products/s4353d/,HTN,positive,Fuel dispensers,37,26,40,34,4.5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Metal pins,1.8,transflective
+S4354D,https://successlcd.com/products/s4354d/,HTN,positive,Timers,39.3,18.5,46.9,24,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Metal pins,1.8,transflective
+S4355D,https://successlcd.com/products/s4355d/,HTN,positive,Motorcycle instruments,58,31.5,66.5,38,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,1.4,transflective
+S4356D,https://successlcd.com/products/s4356d/,HTN,positive,Motorcycle instruments,51.3,50.7,,,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,1.4,transflective
+S4361D,https://successlcd.com/products/s4361d/,TN,positive,Test strip readers,32,20,38,22,3.3,static,,64,12 o'clock,0,50,-10,60,Metal pins,2.54,reflective
+S4363D,https://successlcd.com/products/s4363d/,HTN,positive,Centrifuges,73,14,0.2,20,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4370D,https://successlcd.com/products/s4370d/,HTN,positive,Small home appliances,23.6,5.6,26,9.8,3.3,1/4,1/3,,12 o'clock,-20,70,-30,80,FPC,0.5,reflective
+S4373D,https://successlcd.com/products/s4373d/,TN,positive,Pet feeders,39,15,42,20,3.3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4374D,https://successlcd.com/products/s4374d/,HTN,positive,Remote controls,28,32,35,35,3.3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2.54,reflective
+S4379D,https://successlcd.com/products/s4379d/,TN,positive,Blood glucose meters,59.4,28.1,,,3,1/4,1/3,64,12 o'clock,-20,70,-30,80,FPC,0.5,reflective
+S4384D,https://successlcd.com/products/s4384d/,HTN,negative,Motorcycle instruments,103,27.5,106,33,5,1/4,1/3,64,6 o'clock,-30,80,-40,85,Metal pins,2,transflective
+S4386D,https://successlcd.com/products/s4386d/,FSTN,positive,Measuring instruments,34.6,29.6,39.5,32,3.3,1/4,1/3,64,6 o'clock,-40,80,-40,90,FPC,,transflective
+S4388D,https://successlcd.com/products/s4388d/,VA,negative,Blood pressure monitors,124.2,80.7,127.2,86.2,3.3,1/8,1/3,128,6 o'clock,-10,60,-20,70,Heat seal,1,transmissive
+S4389D,https://successlcd.com/products/s4389d/,HTN,positive,Motorcycle instruments,133,49,136,55.5,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,Zebra,2,transflective
+S4391D,https://successlcd.com/products/s4391d/,FSTN,positive,Food thermometers,92,8,95,13,3.3,1/4,1/3,64,12 o'clock,-10,60,-20,70,Metal pins,2.54,transmissive
+S4400D,https://successlcd.com/products/s4400d/,VA,negative,Dog training devices,25,34.3,28,39.3,3.3,1/4,1/3,128,3 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4403D,https://successlcd.com/products/s4403d/,VA,negative,Thermostats,66,65,71,73,5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4404D,https://successlcd.com/products/s4404d/,DFSTN,negative,Food thermometer,104.2,8,0.2,13,3.3,1/8,1/4,64,6 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4405D,https://successlcd.com/products/s4405d/,TN,negative,Massage devices,91.5,52.5,93.5,56.5,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2.54,transmissive
+S4406D,https://successlcd.com/products/s4406d/,TN,positive,Massage devices,52,65,54,70,3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,1.5,transmissive
+S4410D,https://successlcd.com/products/s4410d/,FSTN,positive,Bus information displays,78,75,81,81,5,1/8,1/4,64,12 o'clock,-10,60,-20,70,Metal pins,2.54,reflective
+S4412D,https://successlcd.com/products/s4412d/,TN,positive,Smart PDUs,37,29,39,36,5,1/4,1/3,64,12 o'clock,-20,70,-30,80,Metal pins,1.8,transflective
+S4416D,https://successlcd.com/products/s4416d/,TN,positive,Treadmills,112,61.5,115,66.5,4.5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,transmissive
+S4417D,https://successlcd.com/products/s4417d/,STN,positive,Cb radios,57,19,,,9,1/33,1/7,,,-30,65,-40,85,,,
+S4419D,https://successlcd.com/products/s4419d/,HTN,positive,Massage devices,46.4,38,50,43.6,3.6,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4422D,https://successlcd.com/products/s4422d/,TN,positive,Timers,28,26.5,30,30,2.8,1/4,1/3,64,3 o'clock,0,50,-10,60,Zebra,,reflective
+S4426D,https://successlcd.com/products/s4426d/,TN,negative,Timers,34.95,18.3,37.95,23.45,5,1/4,1/3,64,6 o'clock,-30,80,-35,85,Zebra,1.68,transmissive
+S4427D,https://successlcd.com/products/s4427d/,TN,positive,Measuring instruments,38.4,27.5,41.4,34,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,,transflective
+S4428D,https://successlcd.com/products/s4428d/,HTN,positive,Motorcycle instruments,38.5,27.5,50.2,34,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,1,transflective
+S4429D,https://successlcd.com/products/s4429d/,HTN,positive,Measuring instruments,35,19,38,25.4,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,1.5,transflective
+S4430D,https://successlcd.com/products/s4430d/,TN,negative,Motorcycle instruments,82,32,85,39.3,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Heat seal,,transmissive
+S4431D,https://successlcd.com/products/s4431d/,HTN,positive,Motorcycle instruments,77.4,31,80.4,37.5,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,FPC,1.7,transflective
+S4432D,https://successlcd.com/products/s4432d/,FSTN,positive,Dog training devices,17.9,37,20.9,43,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,1.6,transmissive
+S4437D,https://successlcd.com/products/s4437d/,VA,negative,Power supplies,44.04,20.97,47.04,25.97,5,1/8,1/4,128,12 o'clock,-20,70,-30,80,Metal pins,1.5,transmissive
+S4446D,https://successlcd.com/products/s4446d/,VA,negative,Thermostats,72.9,53.33,78.9,63.4,4.3,1/4,1/3,128,12 o'clock,-20,60,-30,70,Metal pins,2,transmissive
+S4449D,https://successlcd.com/products/s4449d/,VA,negative,Dog training devices,37,15.64,42,18.64,3.3,1/4,1/3,128,3 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S4450D,https://successlcd.com/products/s4450d/,VA,negative,Motorcycle instruments,149,61,152,68,5,1/4,1/3,128,6 o'clock,-30,80,-35,85,Metal pins,2.54,transmissive
+S4455D,https://successlcd.com/products/s4455d/,TN,positive,Blood pressure monitors,69,70.5,72,76.5,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.6,transmissive
+S4463D,https://successlcd.com/products/s4463d/,DFSTN,negative,Food thermometers,92,10,,,3.3,1/8,1/4,64,6 o'clock,-20,70,-30,80,FPC,,
+S4464D,https://successlcd.com/products/s4464d/,VA,negative,Power supplies,51,41,54,48,5,1/4,1/3,128,12 o'clock,-30,80,-30,85,Metal pins,2.54,transmissive
+S4465D,https://successlcd.com/products/s4465d/,VA,negative,Small home appliances,78.85,42.5,82,49.5,5,1/4,1/3,128,12 o'clock,-30,80,-30,85,Metal pins,2.54,transmissive
+S4466D,https://successlcd.com/products/s4466d/,TN,positive,Timers,41,25,43.4,29.2,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,reflective
+S4471D,https://successlcd.com/products/s4471d/,TN,positive,Thermostats,40.6,31.1,48,33.5,5,1/4,1/3,64,12 o'clock,-10,60,-20,70,Metal pins,2.54,transflective
+S4473D,https://successlcd.com/products/s4473d/,VA,negative,Thermostats,38.39,29.5,41.4,37,4,1/8,1/4,128,12 o'clock,-20,70,-30,80,FPC,0.5,transmissive
+S4477D,https://successlcd.com/products/s4477d/,TN,positive,Weighing scales,89.5,34.1,92.5,39,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2,reflective
+S4480D,https://successlcd.com/products/s4480d/,VA,negative,Portable power stations,71,32,78,39,4.5,1/8,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4482D,https://successlcd.com/products/s4482d/,VA,negative,Food thermometers,50.9,25.8,53.9,31.3,3.3,1/6,1/3,128,6 o'clock,-10,60,-20,70,,,transmissive
+S4486D,https://successlcd.com/products/s4486d/,HTN,positive,Motorcycle instruments,97,35,100,42,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transflective
+S4488D,https://successlcd.com/products/s4488d/,VA,negative,Towel dryers,31,39,38,42,3.3,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4489D,https://successlcd.com/products/s4489d/,VA,negative,Clocks,47.71,18.56,50.72,23.56,4.5,1/4,1/3,128,12 o'clock,-10,60,-20,70,Metal pins,2,transmissive
+S4495D,https://successlcd.com/products/s4495d/,TN,positive,Media players,20,11,22,15,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,FPC,0.5,reflective
+S4499D,https://successlcd.com/products/s4499d/,FSTN,positive,Temperature controllers,34.6,18.7,,,3.3,1/4,1/3,64,6 o'clock,-40,80,-40,85,Metal pins,,
+S4507D,https://successlcd.com/products/s4507d/,HTN,positive,Blood pressure monitors,91.1,107.4,94.1,113.4,3.6,1/6,1/3,64,12 o'clock,-20,70,-30,80,Zebra,1.3,reflective
+S4516D,https://successlcd.com/products/s4516d/,TN,positive,Electronic toys,26,21,28,25,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4523D,https://successlcd.com/products/s4523d/,HTN,positive,Thermo-hygrometers,45.14,38.24,50.52,45.24,3.3,1/4,1/3,64,6 o'clock,-20,85,-30,85,Metal pins,1.5,transflective
+S4527D,https://successlcd.com/products/s4527d/,HTN,positive,Thermo-hygrometers,41.74,37.63,44.74,42.63,2.9,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,1,reflective
+S4528D,https://successlcd.com/products/s4528d/,HTN,positive,Thermo-hygrometers,43,33,46,38.5,3.3,1/4,1/3,64,6 o'clock,-40,80,-40,85,Zebra,1.5,reflective
+S4529D,https://successlcd.com/products/s4529d/,TN,positive,Thermostats,68,60,75.4,64,2.8,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2.54,reflective
+S4533D,https://successlcd.com/products/s4533d/,VA,negative,Motorcycle instruments,151.95,65,154.95,70,5,1/4,1/3,128,6 o'clock,-30,80,-35,85,Metal pins,2,transmissive
+S4535D,https://successlcd.com/products/s4535d/,TN,positive,Counters,24.5,9.9,26.5,13.9,3,1/4,1/3,64,9 o'clock,0,50,-10,60,Metal pins,1.27,reflective
+S4536D,https://successlcd.com/products/s4536d/,HTN,positive,Thermostats,49,36,52,44,5,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4542D,https://successlcd.com/products/s4542d/,TN,positive,Massage devices,39,30,42,37,3,1/3,1/2,64,6 o'clock,0,50,-10,60,Metal pins,2.54,transmissive
+S4546D,https://successlcd.com/products/s4546d/,TN,positive,Thermo-hygrometers,74,63,78,69,4.5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,transflective
+S4547D,https://successlcd.com/products/s4547d/,TN,positive,Thermo-hygrometers,74,63,78,69,4.5,1/4,1/3,64,12 o'clock,0,50,-10,60,Zebra,2,reflective
+S4548D,https://successlcd.com/products/s4548d/,TN,positive,Thermo-hygrometers,74,63,78,69,4.5,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,2,reflective
+S4552D,https://successlcd.com/products/s4552d/,HTN,negative,Massage devices,43.9,37.89,50,42,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1,transmissive
+S4553D,https://successlcd.com/products/s4553d/,VA,negative,Workshop measuring tools,105,60,108,68,3.6,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4554D,https://successlcd.com/products/s4554d/,TN,positive,Massage devices,56,55.8,59,61.3,4,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.2,transmissive
+S4570D,https://successlcd.com/products/s4570d/,HTN,negative,Motorcycle instruments,105,63,113,66,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4571D,https://successlcd.com/products/s4571d/,HTN,positive,Thermostats,77.3,51.69,85.5,54.69,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4572D,https://successlcd.com/products/s4572d/,TN,positive,Thermo-hygrometers,39.3,26,45.7,28,3,1/8,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,reflective
+S4576D,https://successlcd.com/products/s4576d/,TN,positive,Thermostats,66,49,69,57,2.8,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2.54,transflective
+S4580D,https://successlcd.com/products/s4580d/,HTN,positive,Thermostats,98,55,106.8,58,3.6,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2.54,transmissive
+S4583D,https://successlcd.com/products/s4583d/,HTN,positive,Thermostats,98,55,106.8,58,3.6,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2.54,transmissive
+S4586D,https://successlcd.com/products/s4586d/,TN,positive,Thermostats,50,61.7,53.2,68.7,4.5,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2,reflective
+S4591D,https://successlcd.com/products/s4591d/,VA,negative,Thermostats,33,23,36,28,4.5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,1.8,transmissive
+S4600D,https://successlcd.com/products/s4600d/,HTN,positive,Thermostats,37.3,38.5,43.7,40.9,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Zebra,2,transflective
+S4603D,https://successlcd.com/products/s4603d/,HTN,positive,Fitness devices,127,59,131,67,3,1/8,1/4,64,6 o'clock,0,50,-20,60,Metal pins,1.6,reflective
+S4604D,https://successlcd.com/products/s4604d/,HTN,positive,Fitness devices,59.9,108.75,66.9,120.15,3,1/8,1/4,64,6 o'clock,0,50,-20,60,Metal pins,1.2,reflective
+S4606D,https://successlcd.com/products/s4606d/,HTN,positive,Motorcycle instruments,66,62.6,68.4,69,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,1.27,transmissive
+S4607D,https://successlcd.com/products/s4607d/,HTN,positive,Motorcycle instruments,66,62.6,68.4,69,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,1.27,transmissive
+S4608D,https://successlcd.com/products/s4608d/,HTN,positive,Barometers,45,49,0.2,57,3.3,1/4,1/3,64,6 o'clock,-10,60,-20,70,Metal pins,2,reflective
+S4610D,https://successlcd.com/products/s4610d/,HTN,positive,Motorcycle instruments,45,38,48,45,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,2,transmissive
+S4620D,https://successlcd.com/products/s4620d/,HTN,positive,Motorcycle instruments,64.5,34,67.5,39.6,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4623D,https://successlcd.com/products/s4623d/,HTN,negative,Motorcycle instruments,117,65,125,68,5,1/4,1/3,64,12 o'clock,-30,80,-40,90,Metal pins,2,transflective
+S4624D,https://successlcd.com/products/s4624d/,HTN,negative,Motorcycle instruments,91,48,94,56,5,1/4,1/3,64,12 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4626D,https://successlcd.com/products/s4626d/,VA,negative,Massage devices,38.4,52.9,43.4,55.9,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4629D,https://successlcd.com/products/s4629d/,HTN,positive,Fitness devices,41.4,25,43.4,29.2,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transflective
+S4631D,https://successlcd.com/products/s4631d/,TN,positive,Competition timers,126.54,40.72,,,3.3,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,,
+S4633D,https://successlcd.com/products/s4633d/,TN,positive,Thermostats,61.5,50.5,64.5,56,5,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S4634D,https://successlcd.com/products/s4634d/,TN,positive,Thermostats,66,49,69,54,5.6,1/4,1/3,64,12 o'clock,-10,60,-20,70,Metal pins,1.5,transmissive
+S4639D,https://successlcd.com/products/s4639d/,VA,negative,Massage devices,48.4,86.4,53.4,89.4,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4641D,https://successlcd.com/products/s4641d/,HTN,positive,Motorcycle instruments,54.4,35.8,56.4,41.8,3.6,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,,transflective
+S4642D,https://successlcd.com/products/s4642d/,STN,negative,Instrumentation,73.6,22,0.2,29,5,1/4,1/3,64,6 o'clock,,,,,Zebra,,transmissive
+S4644D,https://successlcd.com/products/s4644d/,HTN,positive,Motorcycle instruments,51,21.5,53,27,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,,2,transmissive
+S4645D,https://successlcd.com/products/s4645d/,HTN,positive,Motorcycle instruments,67.4,41.4,69.4,45.9,5,1/4,1/3,64,12 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4660D,https://successlcd.com/products/s4660d/,VA,negative,Smart switches,61.7,38,64.7,43,4.5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4665D,https://successlcd.com/products/s4665d/,TN,positive,Blood pressure monitors,119.5,77,125,80,4.4,1/6,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,transmissive
+S4666D,https://successlcd.com/products/s4666d/,VA,negative,Thermostats,29,32,36,35,3.3,1/4,1/3,128,6 o'clock,-10,60,-20,70,Metal pins,2,transmissive
+S4669D,https://successlcd.com/products/s4669d/,HTN,positive,Motorcycle instruments,44.7,22.1,47.7,28.6,5,1/4,1/3,64,12 o'clock,-30,80,-40,85,Zebra,2,transflective
+S4673D,https://successlcd.com/products/s4673d/,HTN,positive,Motorcycle instruments,116.4,63,124,66,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,1.8,transflective
+S4677D,https://successlcd.com/products/s4677d/,TN,negative,Thermostats,26.2,24.8,32.2,26.8,4,1/8,1/4,64,12 o'clock,0,50,-10,60,Zebra,1.2,transflective
+S4691D,https://successlcd.com/products/s4691d/,VA,negative,Thermostats,48,35,51,42,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,,2.54,transmissive
+S4696D,https://successlcd.com/products/s4696d/,TN,positive,Thermostats,50,30,53,37,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4697D,https://successlcd.com/products/s4697d/,TN,positive,Thermometers,30,15,33,22,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2.54,reflective
+S4699D,https://successlcd.com/products/s4699d/,HTN,negative,Motorcycle instruments,161.5,39.8,164.5,45.3,5,1/4,1/3,64,6 o'clock,-30,85,-40,85,FPC,0.5,transmissive
+S4700D,https://successlcd.com/products/s4700d/,TN,positive,Clocks,53,31,55,35,3.3,1/4,1/3,64,6 o'clock,-10,50,-20,60,Metal pins,2,transmissive
+S4704D,https://successlcd.com/products/s4704d/,HTN,positive,Motorcycle instruments,37.1,54.7,43.1,56.7,5,1/4,1/3,64,12 o'clock,-30,80,-40,85,Metal pins,2,transflective
+S4705D,https://successlcd.com/products/s4705d/,TN,positive,Thermostats,42,66.2,50,69.2,3.3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4706D,https://successlcd.com/products/s4706d/,HTN,positive,Thermostats,55.6,68.1,58,72.5,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4707D,https://successlcd.com/products/s4707d/,VA,negative,Beauty devices,25,25,28,30.5,3.3,1/4,1/3,128,6 o'clock,-10,50,-20,60,Metal pins,2,transmissive
+S4708D,https://successlcd.com/products/s4708d/,TN,positive,Blood pressure monitors,53.5,75,59,78,3,1/6,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1,transmissive
+S4709D,https://successlcd.com/products/s4709d/,VA,negative,Massage devices,84.6,59.6,87.6,66.6,5,1/4,1/3,128,6 o'clock,-20,70,-25,75,Metal pins,2.54,transmissive
+S4710D,https://successlcd.com/products/s4710d/,HTN,positive,Controllers,100,25,104.4,34,3.1,1/3,1/3,64,12 o'clock,-10,60,-20,70,Zebra,2.54,transflective
+S4711D,https://successlcd.com/products/s4711d/,FSTN,positive,Measuring instruments,54,46,62,49,3,1/8,1/4,64,6 o'clock,-20,70,-30,80,Metal pins,1.8,transflective
+S4712D,https://successlcd.com/products/s4712d/,HTN,negative,Motorcycle instruments,65.1,62,68.1,69,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,1.8,transmissive
+S4713D,https://successlcd.com/products/s4713d/,TN,positive,Battery indicators,20.5,10.55,23,15,3,1/2,1/2,64,6 o'clock,-20,60,-30,85,Metal pins,,reflective
+S4714D,https://successlcd.com/products/s4714d/,HTN,negative,Motorcycle instruments,65.1,62,68.1,69,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,1.8,transmissive
+S4715D,https://successlcd.com/products/s4715d/,TN,positive,Dog training devices,29.1,19,,,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.27,transflective
+S4716D,https://successlcd.com/products/s4716d/,HTN,positive,Thermostats,90,23.4,95.01,31.3,3.3,1/4,1/3,64,12 o'clock,0,50,-10,60,Zebra,2,transflective
+S4717D,https://successlcd.com/products/s4717d/,HTN,positive,Measuring instruments,66,40.5,69,45.5,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,2,transmissive
+S4718D,https://successlcd.com/products/s4718d/,HTN,positive,Measuring instruments,66,40.5,69,45.5,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,2,transmissive
+S4719D,https://successlcd.com/products/s4719d/,VA,negative,Dog training devices,25.29,19.59,28.29,24.59,3,1/4,1/3,128,3 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4723D,https://successlcd.com/products/s4723d/,TN,positive,Blood pressure monitors,70,78,73,83.5,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1.4,transmissive
+S4724D,https://successlcd.com/products/s4724d/,TN,positive,Blood pressure monitors,63.6,65.6,66,70,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1.4,reflective
+S4725D,https://successlcd.com/products/s4725d/,HTN,positive,Audio devices,29,9,31,13,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,FPC,,reflective
+S4729D,https://successlcd.com/products/s4729d/,HTN,positive,Thermostats,65.93,65.93,73.12,75,3,1/4,1/3,64,12 o'clock,0,50,-10,60,FPC,,transflective
+S4730D,https://successlcd.com/products/s4730d/,HTN,positive,Multifunction power meters,46.6,28.6,49,35,3.3,1/8,1/4,64,6 o'clock,-20,70,-30,80,Metal pins,1.8,transflective
+S4731D,https://successlcd.com/products/s4731d/,TN,positive,Blood pressure monitors,52,65,55,70.5,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.3,transmissive
+S4733D,https://successlcd.com/products/s4733d/,VA,negative,Massage devices,82.9,58.6,86.9,66.6,5,1/4,1/3,128,6 o'clock,-20,70,-25,75,Metal pins,2.54,transmissive
+S4734D,https://successlcd.com/products/s4734d/,VA,negative,Massage devices,82.9,58.6,86.9,66.6,5,1/4,1/3,128,6 o'clock,-20,70,-25,75,Metal pins,2.54,transmissive
+S4736D,https://successlcd.com/products/s4736d/,HTN,positive,Motorcycle instruments,54.4,28.4,57.4,33.9,5,1/4,1/3,64,12 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4737D,https://successlcd.com/products/s4737d/,HTN,positive,Motorcycle instruments,52.4,28.4,55.4,33.9,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,1.8,transflective
+S4739D,https://successlcd.com/products/s4739d/,TN,positive,Dog training devices,29,19,,,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.27,transflective
+S4740D,https://successlcd.com/products/s4740d/,HTN,positive,Thermostats,49,36,52,44,5,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S4741D,https://successlcd.com/products/s4741d/,VA,negative,Tire pressure gauges,16.4,20,18.8,26.4,5,1/4,1/3,120,12 o'clock,-30,80,-40,90,Metal pins,1.27,transmissive
+S4742D,https://successlcd.com/products/s4742d/,VA,negative,Motorcycle instruments,116.1,62.1,123.1,65.1,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,2,transmissive
+S4746D,https://successlcd.com/products/s4746d/,FSTN,positive,Digital calipers,42.4,20.2,44.4,23.4,3,1/4,1/2,64,6 o'clock,0,50,-10,60,Zebra,,reflective
+S4747D,https://successlcd.com/products/s4747d/,FSTN,positive,Digital calipers,42.4,20.2,,,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,,
+S4749D,https://successlcd.com/products/s4749d/,HTN,positive,Motorcycle instruments,78.7,39,80.7,46,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,2,transflective
+S4750D,https://successlcd.com/products/s4750d/,HTN,positive,Massage devices,47,60.2,50,65.2,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,FPC,,transmissive
+S4752D,https://successlcd.com/products/s4752d/,HTN,positive,Electricity meters,66.1,38,68.1,45,3,1/6,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transflective
+S4755D,https://successlcd.com/products/s4755d/,TN,negative,Motorcycle instruments,65.8,46.4,72.8,49.4,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,2,transflective
+S4757D,https://successlcd.com/products/s4757d/,VA,negative,Motorcycle instruments,116.1,62.1,123.1,65.1,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,2,transmissive
+S4758D,https://successlcd.com/products/s4758d/,HTN,positive,Motorcycle instruments,50.9,48.9,52.9,54.9,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,2,transflective
+S4759D,https://successlcd.com/products/s4759d/,TN,positive,Motorcycle instruments,89.1,80,91.1,84,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,2,transflective
+S4760D,https://successlcd.com/products/s4760d/,TN,positive,Tire pressure gauges,20,10,23,17,5,1/4,1/2,64,6 o'clock,0,50,-10,60,Zebra,2.54,transmissive
+S4763D,https://successlcd.com/products/s4763d/,HTN,positive,Motorcycle instruments,31,17.9,33,21.9,5,1/4,1/3,64,12 o'clock,-30,80,-40,90,Metal pins,1.5,transflective
+S4766D,https://successlcd.com/products/s4766d/,VA,negative,Thermostats,35.5,19,38.5,24,5,1/4,1/3,120,12 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S4767D,https://successlcd.com/products/s4767d/,HTN,positive,Massage devices,51.4,40.4,54,45,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4768D,https://successlcd.com/products/s4768d/,TN,positive,Coffee machines,39.6,18.1,42,22.5,5,1/4,1/3,64,12 o'clock,-10,80,-20,90,Metal pins,1.8,transmissive
+S4769D,https://successlcd.com/products/s4769d/,VA,negative,Motorcycle instruments,118,62,121,69,5,1/4,1/3,128,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4770D,https://successlcd.com/products/s4770d/,VA,negative,Thermostats,37,20.5,40,25.5,5,1/4,1/3,120,12 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S4772D,https://successlcd.com/products/s4772d/,HTN,positive,Motorcycle instruments,51.6,36.4,,,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,,
+S04773D,https://successlcd.com/products/s04773d/,HTN,positive,Temperature controllers,66,49,0.2,57,5,1/8,1/4,64,12 o'clock,-20,60,-30,70,Metal pins,,transmissive
+S4775D,https://successlcd.com/products/s4775d/,TN,positive,Timers,8.2,20.5,13.2,22.5,5,1/3,1/2,64,6 o'clock,0,50,-10,60,Zebra,1.8,reflective
+S04778D,https://successlcd.com/products/s04778d/,HTN,positive,Motorcycle instruments,127.9,49.1,0.2,56.8,5,1/4,1/3,64,6 o'clock,-30,80,-40,85,Metal pins,1.8,transmissive
+S4780D,https://successlcd.com/products/s4780d/,TN,,Blood pressure monitors,55.3,40,57.3,45,3.3,1/6,1/3,64,6 o'clock,0,50,-10,60,Zebra,1.2,reflective
+S04781D,https://successlcd.com/products/s04781d/,HTN,positive,Motorcycle instruments,97,37,100,42,5,1/4,1/3,64,7:30 o'clock,-20,70,-30,80,Metal pins,1.8,transflective
+S4784D,https://successlcd.com/products/s4784d/,TN,positive,Small home appliances,22,10.5,24,16.5,3,1/2,1/2,64,12 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4787D,https://successlcd.com/products/s4787d/,TN,positive,Small home appliances,52,27,55,32,5,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2,transmissive
+S4788D,https://successlcd.com/products/s4788d/,VA,negative,Thermostats,54,36.5,57,44,5,1/8,1/4,120,12 o'clock,-20,70,-30,80,Metal pins,1.27,transmissive
+S4789D,https://successlcd.com/products/s4789d/,VA,negative,Motorcycle instruments,119,51.6,122,56.6,5,1/4,1/3,128,6 o'clock,-30,80,-40,85,FPC,,transmissive
+S4790D,https://successlcd.com/products/s4790d/,TN,positive,Thermostats,39,63,42,68,4,1/4,1/3,64,6 o'clock,-20,70,-30,80,Zebra,1,transflective
+S4796D,https://successlcd.com/products/s4796d/,HTN,positive,Thermostats,65,44.5,68,49.5,4.2,1/8,1/4,64,12 o'clock,0,50,-10,60,Metal pins,2,transflective
+S04799D,https://successlcd.com/products/s04799d/,HTN,negative,Motorcycle instruments,99.8,31.5,0.2,37,5,1/4,1/3,64,6 o'clock,-30,80,-40,90,Metal pins,2,transmissive
+S4800D,https://successlcd.com/products/s4800d/,DFSTN,negative,Instrumentation,68.5,15.3,,,3.3,1/8,1/4,64,12 o'clock,-30,80,-40,85,Metal pins,,
+S04802D,https://successlcd.com/products/s04802d/,HTN,negative,Clocks,45,25,0.2,30,5,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4803D,https://successlcd.com/products/s4803d/,TN,positive,Timers,54,28,57,32.5,3,1/4,1/3,64,6 o'clock,-30,50,-40,70,Zebra,2,reflective
+S04806D,https://successlcd.com/products/s04806d/,HTN,negative,Thermostats,33,33,36,39,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,1.5,transflective
+S4808D,https://successlcd.com/products/s4808d/,VA,negative,Clocks,19,15,22,22,5,1/4,1/3,120,12 o'clock,-20,70,-30,80,,,transmissive
+S4809D,https://successlcd.com/products/s4809d/,HTN,negative,Motorcycle instruments,111,34,114,42,5,1/4,1/3,64,12 o'clock,-30,70,-40,80,Metal pins,2,transmissive
+S4811D,https://successlcd.com/products/s4811d/,VA,negative,Massage devices,49,45,52,50,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,1.27,transmissive
+S4815D,https://successlcd.com/products/s4815d/,TN,positive,Clocks,96,53.5,99,59,5,1/4,1/3,64,6 o'clock,0,50,-10,60,Heat seal,1.5,transmissive
+S4817D,https://successlcd.com/products/s4817d/,TN,positive,Thermostats,41.5,16.9,43.5,20.4,3,1/4,1/2,64,6 o'clock,-10,60,-20,70,Zebra,2,transmissive
+S04819D,https://successlcd.com/products/s04819d/,HTN,positive,Temperature controllers,70,57,0.2,60,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Metal pins,2.54,transflective
+S4822D,https://successlcd.com/products/s4822d/,TN,positive,Electricity meters,28,13.4,30,17.4,3,1/4,1/3,64,6 o'clock,-30,80,-40,85,Metal pins,1.5,reflective
+S04824D,https://successlcd.com/products/s04824d/,FSTN,positive,Fitness devices,108.75,59.9,113.75,66.9,3,1/8,1/4,64,6 o'clock,0,50,-20,60,Zebra,2,transflective
+S4829D,https://successlcd.com/products/s4829d/,VA,negative,Massage devices,31.8,42.4,34.4,47.5,3.3,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S04830D,https://successlcd.com/products/s04830d/,HTN,positive,Motorcycle instruments,155,50.5,,,5,1/4,1/3,64,6 o'clock,-30,70,-40,80,Metal pins,,
+S04831D,https://successlcd.com/products/s04831d/,FSTN,positive,Measuring instruments,51,17.4,53,23.8,3,1/8,1/3,64,6 o'clock,-35,80,-40,85,Metal pins,2.54,transflective
+S4837D,https://successlcd.com/products/s4837d/,VA,negative,Thermostats,29.4,21.2,32.4,28.4,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4838D,https://successlcd.com/products/s4838d/,VA,negative,Thermostats,54,40,57,45.5,5,1/4,1/3,120,12 o'clock,-20,70,-30,80,Metal pins,,transmissive
+S4840D,https://successlcd.com/products/s4840d/,TN,positive,Measuring instruments,66,20,68,24,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,2,reflective
+S4841D,https://successlcd.com/products/s4841d/,VA,negative,Thermostats,26.6,14.5,29.6,22,5,1/4,1/3,128,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4842D,https://successlcd.com/products/s4842d/,VA,negative,Pulse oximeters,17.94,9.9,,,3,1/4,1/3,64,6 o'clock,0,50,-10,60,Zebra,,
+S4843D,https://successlcd.com/products/s4843d/,TN,positive,Measuring instruments,65.6,20.58,68,27,3.3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,transmissive
+S4844D,https://successlcd.com/products/s4844d/,VA,negative,Measuring instruments,40,11.8,42,17.8,3.3,1/4,1/3,120,6 o'clock,0,50,-10,60,Metal pins,1.8,transmissive
+S4845D,https://successlcd.com/products/s4845d/,TN,negative,Audio devices,14,14,16.4,18.4,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,1.5,transmissive
+S4852D,https://successlcd.com/products/s4852d/,VA,negative,Massage devices,84,54,,,5,1/4,1/3,128,6 o'clock,0,50,-10,60,Metal pins,,
+S4855D,https://successlcd.com/products/s4855d/,TN,positive,Thermostats,43,33,46,41,3,1/4,1/3,64,6 o'clock,-20,70,-30,80,Metal pins,2.54,reflective
+S4856D,https://successlcd.com/products/s4856d/,TN,positive,Measuring instruments,38,28,40,32,3,1/4,1/3,64,12 o'clock,0,50,-10,60,Zebra,0.8,reflective
+S04858D,https://successlcd.com/products/s04858d/,TN,positive,Temperature controllers,68.1,41,0.2,44,3.6,1/4,1/3,64,12 o'clock,-20,60,-30,70,Metal pins,2,transmissive
+S4863D,https://successlcd.com/products/s4863d/,TN,positive,Brix meters,28.5,28,,,3.3,1/4,1/3,64,6 o'clock,0,50,-10,60,Metal pins,0.5,transflective
+S04864D,https://successlcd.com/products/s04864d/,HTN,negative,Motorcycle instruments,84,50,87,58,5,1/4,1/3,64,12 o'clock,-30,70,-40,80,Metal pins,1.8,transflective
+S4865D,https://successlcd.com/products/s4865d/,TN,positive,Measuring instruments,51,27,54,32.5,3,1/4,1/3,64,6 o'clock,-30,80,-40,85,Metal pins,2,reflective
+S4869D,https://successlcd.com/products/s4869d/,TN,positive,Thermostats,78,62.5,81,67.5,4.3,1/4,1/2,64,12 o'clock,0,50,-10,60,Metal pins,2,transmissive
+S4870D,https://successlcd.com/products/s4870d/,TN,positive,Thermometers,22.4,15.7,,,3,1/4,1/3,,6 o'clock,0,50,-10,60,Zebra,,
+S364901D,https://successlcd.com/products/s364901d/,VA,negative,Power supplies,35,13,38.8,17,5,1/4,1/3,64,12 o'clock,-30,80,-35,85,Metal pins,1.27,transmissive
