@@ -1,6 +1,6 @@
 # Segment LCD references
 
-428 custom segment LCDs we have built at [SuccessLCD](https://successlcd.com/), in one table. Every row comes from the production drawing: LCD type, viewing area, glass outline, operating voltage, duty and bias, frame frequency, viewing direction, temperature range, connection and rear polarizer, with a link to the product page.
+451 custom segment LCDs we have built at [SuccessLCD](https://successlcd.com/), in one table. Every row comes from the production drawing: LCD type, viewing area, glass outline, operating voltage, duty and bias, frame frequency, viewing direction, temperature range, connection and rear polarizer, with a link to the product page.
 
 Most segment LCD projects start with the same questions. What glass fits behind a 45 mm window? Will it run from 3 V? Is it still readable at −30 °C? Has someone already built something close? A list of real drawings gets you to an answer faster than a blank spec, and it gives you numbers to put in your own.
 
@@ -10,14 +10,14 @@ Most of these were drawn for one customer's product, so treat them as starting p
 
 | LCD type | References |
 |---|---:|
-| HTN | 153 |
-| TN | 117 |
-| VA | 110 |
-| FSTN | 26 |
+| HTN | 155 |
+| VA | 123 |
+| TN | 122 |
+| FSTN | 27 |
 | DFSTN | 14 |
-| STN | 8 |
+| STN | 10 |
 
-258 are positive mode and 167 negative. By connection: 281 metal pins, 84 zebra, 33 FPC and 21 heat seal. 90 are rated to operate at −30 °C or colder.
+266 are positive mode and 182 negative. By connection: 292 metal pins, 86 zebra, 34 FPC and 22 heat seal. 94 are rated to operate at −30 °C or colder.
 
 - `data/segment-lcd-references.csv`: one row per reference
 - `data/segment-lcd-references.json`: the same data as JSON
@@ -34,7 +34,7 @@ S3945D   TN    positive   53.8 x 16    mm  3.0 V  1/4 duty, 1/3 bias  -20 to +70
 S4067D   DFSTN positive     59 x 14.5  mm  3.0 V  1/8 duty, 1/4 bias  -30 to +80 °C  https://successlcd.com/products/s4067d/
 S4324D   TN    positive     42 x 42    mm  3.0 V  1/4 duty, 1/3 bias  -20 to +70 °C  https://successlcd.com/products/s4324d/
 ...
-15 of 428 references
+15 of 451 references
 ```
 
 Other filters: `--type VA`, `--negative`, `--duty 1/8`, `--connection Zebra`, `--app thermostat`. Add `--csv` to get the matching rows as a spreadsheet.
@@ -65,6 +65,7 @@ The same references grouped by product, with a comparison table on each page:
 - [Electricity, gas and fuel meters](https://successlcd.com/application/meter-lcd-display/)
 - [Measuring instruments](https://successlcd.com/application/measuring-instrument-lcd/)
 - [Clocks and timers](https://successlcd.com/application/clock-timer-lcd/)
+- [Home appliances and smart home](https://successlcd.com/application/home-appliance-lcd-display/)
 
 ## Columns
 
